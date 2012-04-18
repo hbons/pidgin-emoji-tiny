@@ -3644,9 +3644,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="21.108317"
-     inkscape:cy="89.106431"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="45.105754"
+     inkscape:cy="22.841189"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -6389,17 +6389,17 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fb7c00;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fb7c00;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect12433-9"
-       width="7"
-       height="2"
-       x="44.5"
-       y="128.5"
-       rx="1"
-       ry="1"
+       width="9"
+       height="4"
+       x="43.5"
+       y="127.49999"
        inkscape:export-filename="/home/hbons/Desktop/angry.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       rx="2"
+       ry="2" />
     <path
        transform="matrix(0.751736,0,0,0.751736,65.124886,117.74366)"
        d="m 21.781414,10.983024 a 9.975256,9.975256 0 1 1 -19.9505119,0 9.975256,9.975256 0 1 1 19.9505119,0 z"
@@ -7053,5 +7053,26 @@
        inkscape:export-filename="/home/hbons/Desktop/sad.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#babdb6;stroke:none"
+       id="rect5779"
+       width="0.99999809"
+       height="1.0329285"
+       x="51"
+       y="128.96707" />
+    <rect
+       y="128.96707"
+       x="44"
+       height="1.0329285"
+       width="0.99999809"
+       id="rect5781"
+       style="fill:#babdb6;stroke:none" />
+    <rect
+       style="opacity:1;fill:#d3d7cf;stroke:none"
+       id="rect5783"
+       width="6.0381341"
+       height="1.0329285"
+       x="45"
+       y="128.96707" />
   </g>
 </svg>
